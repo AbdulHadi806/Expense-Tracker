@@ -1,5 +1,5 @@
 # Expense Tracker basic app.
-### Made with React.js.
+### Made with React.js and Context api. 
 It does basic operations like finding expense and current balance. The UI is simple and functionality is basic.
 But this was one of my first React.js project.
 
