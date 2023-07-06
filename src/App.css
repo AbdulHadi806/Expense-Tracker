@@ -82,9 +82,13 @@ h1 {
 }
 .History button {
   border: transparent;
+  background: transparent;
   transition: .2s all ease-in-out;
   color: #000;
   padding: 3px 3px;
+}
+.History button:hover {
+  background: #e8e8e8;
 }
 .History ul {
   overflow-y: scroll;
