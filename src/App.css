@@ -81,13 +81,10 @@ h1 {
   position: relative;
 }
 .History button {
-  background-color: #c0392b;
+  border: transparent;
   transition: .2s all ease-in-out;
   color: #000;
   padding: 3px 3px;
-}
-.History button:hover {
-  background-color: #bbbbbb;
 }
 .History ul {
   overflow-y: scroll;
